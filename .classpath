@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/flume-ng-configuration-1.5.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/flume-ng-hbase-sink-1.5.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/hbase-client-1.1.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/flume-ng-sdk-1.5.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/hbase-common-1.1.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/copilotco/lib/flume-ng-core-1.5.2.2.6.2.0-205.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
